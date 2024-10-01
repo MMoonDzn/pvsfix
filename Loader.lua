@@ -48,7 +48,7 @@ getgenv().Parvus = {
     Source = "https://raw.githubusercontent.com/MMoonDzn/pvsfix/" .. Branch .. "/",
 
     Games = {
-        ["Universal" ] = { Name = "Universal",                  Script = "Universal"  },
+        ["Universal" ] = { Name = "Universal",                  Script = "Universal"  }
     }
 }
 
